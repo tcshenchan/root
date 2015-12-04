@@ -1,0 +1,1 @@
+..\..\Python27\Scripts\scons.bat -c

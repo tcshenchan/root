@@ -1,0 +1,8 @@
+r
+h
+speed 1000
+exec device = STM32F103ZE
+loadbin rtthread.bin 0x8000000
+r
+g
+q
